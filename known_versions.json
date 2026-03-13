@@ -1,0 +1,12 @@
+{
+  "ollama/ollama": "v0.17.7",
+  "vllm-project/vllm": "v0.17.1",
+  "pipecat-ai/pipecat": "v0.0.105",
+  "langchain-ai/langgraph": "1.1.2",
+  "qdrant/qdrant": "v1.17.0",
+  "home-assistant/core": "2026.3.1",
+  "portainer/portainer": "2.39.0",
+  "docker/compose": "v5.1.0",
+  "nginx/nginx": "release-1.29.6",
+  "immich-app/immich": "v2.5.6"
+}
