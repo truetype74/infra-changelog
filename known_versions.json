@@ -1,12 +1,12 @@
 {
-  "ollama/ollama": "v0.40.2",
+  "ollama/ollama": "v0.40.5",
   "vllm-project/vllm": "v0.31.0",
   "pipecat-ai/pipecat": "v1.12.0",
-  "langchain-ai/langgraph": "cli==0.4.33",
+  "langchain-ai/langgraph": "cli==0.4.36",
   "qdrant/qdrant": "v1.19.2",
-  "home-assistant/core": "2026.10.0",
+  "home-assistant/core": "2026.10.1",
   "portainer/portainer": "2.45.2",
   "docker/compose": "v5.6.0",
-  "nginx/nginx": "release-1.31.6",
-  "immich-app/immich": "v3.3.1"
+  "nginx/nginx": "release-1.31.7",
+  "immich-app/immich": "v3.3.3"
 }
